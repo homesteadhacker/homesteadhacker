@@ -9,6 +9,7 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MediaBeast Publisher: The Push to GitHub](https://homesteadhacker.com/2025/12/mediabeast-publisher-the-push-to-github/)
 - [Why I&#39;m Building MediaBeast &lpar;And Why I Stopped Trying to Replace Bluray.com&rpar;](https://homesteadhacker.com/2025/12/why-im-building-mediabeast-and-why-i-stopped-trying-to-replace-bluray.com/)
 - [I Built a Bridge: Three Days, Three Tools, and Why I Threw Away Perfectly Good Code](https://homesteadhacker.com/2025/12/i-built-a-bridge-three-days-three-tools-and-why-i-threw-away-perfectly-good-code/)<!-- BLOG-POST-LIST:END -->
 
