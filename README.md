@@ -1,6 +1,6 @@
 # Hi there, I'm John Brantly (homestead) 👋
 
-**Technical Product Manager | Platform & Integrations | Architecture-First Execution**
+[**Technical Product Manager | Platform & Integrations | Architecture-First Execution**](https://johnbrantly.com/)
 
 40 years of experience. Full-stack when you need it, light-touch when you don't. I build what you need and nothing more.
 
