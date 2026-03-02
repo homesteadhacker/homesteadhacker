@@ -15,12 +15,6 @@
 
 ➡️ [Read more on Homestead Hacker](https://homesteadhacker.com)
 
----
 
-## 💼 Skills & Technologies
 
-I’m a Product Engineer and technical leader who loves building cool stuff with kind people. I’ve worked across enterprise, SMB, and startups especially on platform and integration-heavy projects. Background includes development & systems work, plus project and people leadership. I bring clarity, steady execution, and a bias toward shipping.
 
-<p align="center">
-  <i>Open to collaboration and interesting projects!</i>
-</p>
