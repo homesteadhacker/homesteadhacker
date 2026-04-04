@@ -1,6 +1,8 @@
-# Hi there, I'm John Brantly (homestead) 👋
+# Hi there, I'm John Brantly (homesteadhacker) 👋
 
-[**AI Consultant | Product Engineer | Technical Product Manager | Platform & Integrations**](https://johnbrantly.com/)
+Welcome to my lab, where I tinker with personal projects and early ideas.
+
+You can find my business github here: [**johnbrantly**](https://github.com/johnbrantly)
 
 ---
 
